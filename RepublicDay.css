@@ -75,12 +75,16 @@ svg {
 h1{
   color:orange;
   
-  text-align: justify;
+  text-align: right;
 
 	width:10%;
 	font-size:40px;
 
   
 
+}
+h2{
+  color: orange;
+  text:"right";
 }
   
